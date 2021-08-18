@@ -13,6 +13,7 @@ Note that this role will not upgrade an existing installation to a newer version
 
 - The following distributions are currently supported:
   - Ubuntu 20.04 LTS or newer
+  - Debian 11 or newer
   - Other Debian-based distros with PHP 7.4 or higher should also work, but are not officially supported
   - There are no plans to support CentOS/RHEL-based distros right now
 - You need to supply your own MariaDB/MySQL database. See the role vars below for available parameters
